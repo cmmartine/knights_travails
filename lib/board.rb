@@ -31,4 +31,4 @@ end
 
 board = Board.new
 board.print_board
-board.knight([7, 5], [5, 6])
+board.knight([4, 4], [8, 8])
