@@ -31,4 +31,5 @@ end
 
 board = Board.new
 board.print_board
-board.knight([4, 4], [8, 8])
+# Update array positions below to find shortest path between positions
+board.knight([1, 1], [8, 8])
